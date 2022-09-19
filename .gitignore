@@ -1,0 +1,5 @@
+img/       # ignore folder called "output"
+data/     #ignore folder called "data"
+*.pdf         # ignore all PDF files
+*.csv         # ignore all csv files
+Info.docx     # ignore the Word document "Info.docx" 
